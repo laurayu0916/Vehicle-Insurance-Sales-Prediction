@@ -1,4 +1,4 @@
-# Vehicle Insurance Sales Prediction
+## Vehicle Insurance Sales Prediction
 
 **Models:** Random Forest, LightBGM, XGBoost, Neural Network
 
